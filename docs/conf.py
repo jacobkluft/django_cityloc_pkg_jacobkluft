@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'django_cityloc_pkg'
+project = 'django_cityloc_pkg_jacobkluft'
 copyright = '2022, Jacob Kluft'
 author = 'Jacob Kluft'
 
